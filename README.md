@@ -1,24 +1,14 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
+This README normally document whatever steps are necessary to get the
 application up and running.
 
-Things you may want to cover:
+If ruby installed
+ruby -v
+And
+If rails installed
+rails -v
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+1 rails new 'project name' / project name is goig to be the folder name
+2 cd into 'project name' / folder name
+3 rails server
