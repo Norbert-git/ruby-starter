@@ -5,7 +5,9 @@ application up and running.
 
 If ruby installed
   ruby -v
+  
 And
+
 If rails installed
   rails -v
 
